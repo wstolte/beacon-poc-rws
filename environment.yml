@@ -1,0 +1,14 @@
+name: beacon_poc
+channels:
+  - conda-forge
+dependencies:
+  - ipykernel
+  - jupyter
+  - python=3
+  - cartopy
+  - matplotlib
+  - numpy
+  - pandas
+  - requests
+  - xarray
+
